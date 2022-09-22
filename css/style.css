@@ -68,6 +68,7 @@ header {
     border-bottom: rgb(206, 206, 206) solid 1px;
     padding-bottom: 1rem;
     position: fixed;
+    width: 100%;
 }
 
 .btn-primary, .btn-primary:link, .btn-primary:visited {
